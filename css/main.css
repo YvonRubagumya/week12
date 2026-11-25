@@ -1,0 +1,29 @@
+h1{
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 36px;
+    font-weight: 100;
+
+    /* for ant other font property beyond bold and italic, */
+    font-variation-settings: "with"100;
+
+    transition: all 3s;
+}
+
+h1{
+    font-weight: 900;
+}
+
+h3{
+    font-family: "Playfair", serif;
+    font-size: 24px;
+}
+
+p{
+    font-family: "Almendra", serif;
+}
+
+you have to set both the width and hight of an iframe
+.maps{
+    width: 900px;
+    height:35vw;
+}
